@@ -1,2 +1,2 @@
 # NewOne
-It's the first respository when I begin to use GitHub
+It's the first respository 
